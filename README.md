@@ -1,5 +1,5 @@
 # 💫 About Me:
-About me<br>Data analytics student focused on turning messy data into clear insights. I work with Excel, SQL, Python, Power BI, and Tableau, and I care more about why numbers move than writing flashy code.<br><br>Currently working on<br>Real-world analytics projects that detect patterns, anomalies, and decision signals—not toy datasets.<br><br>Fun fact<br>I enjoy breaking “good-looking” dashboards to see if the insights actually hold up.<br><br>Ask me about<br>Data analysis, dashboards that drive decisions, SQL queries that don’t lie, and spotting fake or misleading data..
+About me<br>Data analytics student focused on turning messy data into clear insights. I work with Excel, SQL, Python, Power BI, and Tableau, and I care more about why numbers move than writing flashy code.<br><br>Currently working on<br>Real-world analytics projects that detect patterns, anomalies, and decision signals—not toy datasets..<br><br>Fun fact<br>I enjoy breaking “good-looking” dashboards to see if the insights actually hold up.<br><br>Ask me about<br>Data analysis, dashboards that drive decisions, SQL queries that don’t lie, and spotting fake or misleading data..
 
 
 ## 🌐 Socials:
